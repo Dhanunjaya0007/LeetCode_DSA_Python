@@ -1,6 +1,6 @@
 #88. Merge Sorted Array
 class Solution:
-    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+    def merge(self, nums1, m: int, nums2, n: int):
         """
         Do not return anything, modify nums1 in-place instead.
         """
